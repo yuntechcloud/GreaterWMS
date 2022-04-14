@@ -1,5 +1,5 @@
-const baseurl = 'http://127.0.0.1:8008/'
-const wsurl = 'ws://127.0.0.1:8008/'
+const baseurl = 'https://wms-dev.yuntech.com.au/'
+const wsurl = 'wss://wms-dev.yuntech.com.au/websocket/'
 
 window.g = {
   BaseUrl: baseurl,
